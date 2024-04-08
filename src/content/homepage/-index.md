@@ -1,51 +1,47 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Revolutionize Your Research with Notebooks"
+  content: "EvaNotebook is an innovative computational notebook platform designed for collaborative research in distributed environments. Built with cutting-edge technology, it combines the flexibility of end-user development with the power of distributed computing to enhance your scientific discovery and educational projects."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    link: "/login"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Distributed Computing Architectures"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Designed for the modern research landscape, EvaNotebook facilitates seamless collaboration across distributed computing environments. Leverage the power of concurrency, synchronization, and advanced consistency models for efficient data handling and computation."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Support for CAP theorem principles"
+      - "Integration with Petri nets, process calculi, TLA+ for formalization"
+      - "Enhanced data manipulation and storage across distributed systems"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Collaborative Research Made Easy"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "EvaNotebook redefines collaborative research with its unique features that support real-time data sharing, version control, and simultaneous project development. Foster a culture of transparency and efficiency in your research team."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Real-time collaboration and version control"
+      - "Seamless integration with cloud software for data sharing"
+      - "Transparent mechanism for replicating the working environment"
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "/login"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Revolutionary File System Middleware - EvaFS"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "At the heart of EvaNotebook is EvaFS, our groundbreaking file system middleware that offers enhanced data organization, security, and access. Experience unparalleled flexibility and control over your research data."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Advanced metadata management for structured and unstructured data"
+      - "Secure and efficient data access with IAM and Vault integration"
+      - "Adaptable to various storage infrastructures, ensuring data integrity"
     button:
       enable: false
       label: ""

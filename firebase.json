@@ -1,0 +1,41 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site": "evanote2",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/app/**",
+        "destination": "/app/index.html"
+      },
+      {
+        "source": "/login",
+        "destination": "/app/index.html"
+      },
+      {
+        "source": "/directory/**",
+        "destination": "/app/index.html"
+      },
+      {
+        "source": "/directory",
+        "destination": "/app/index.html"
+      },
+      {
+        "source": "/evanotebook",
+        "destination": "/app/index.html"
+      },
+      {
+        "source": "/evanotebook/**",
+        "destination": "/app/index.html"
+      },
+      {
+        "source": "/register",
+        "destination": "/app/index.html"
+      }
+    ]
+  }
+}
