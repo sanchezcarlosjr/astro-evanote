@@ -9,7 +9,7 @@ import "@/styles/main.scss";
 import { AstroFont } from "astro-font";
 import { ViewTransitions } from "astro:transitions";
 import SearchModal from "./helpers/SearchModal";
-
+import { join } from "node:path";
 // font families
 const pf = theme.fonts.font_family.primary;
 const sf = theme.fonts.font_family.secondary;
@@ -62,27 +62,37 @@ const { title, meta_title, description, image, noindex, canonical } =
     <meta name="generator" content={Astro.generator} />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-    <!-- google font css -->
+    <!-- Fonts -->
     <AstroFont
       config={[
         {
-          src: [],
+          src: [
+            {
+              style: 'normal',
+              weight: '400',
+              path: join(process.cwd(), 'public', 'fonts', 'Inter-Regular.woff2')
+            }
+          ],
           preload: false,
           display: "swap",
           name: fontPrimary!,
           fallback: "sans-serif",
-          cssVariable: "font-primary",
-          googleFontsURL: `https://fonts.googleapis.com/css2?family=${pf}&display=swap`,
+          cssVariable: "font-primary"
         },
         {
-          src: [],
+          src: [
+            {
+              style: 'normal',
+              weight: '500',
+              path: join(process.cwd(), 'public', 'fonts', 'InterDisplay-SemiBold.woff2')
+            }
+          ],
           preload: false,
           display: "swap",
           name: fontSecondary!,
           fallback: "sans-serif",
-          cssVariable: "font-secondary",
-          googleFontsURL: `https://fonts.googleapis.com/css2?family=${sf}&display=swap`,
-        },
+          cssVariable: "font-secondary"
+        }
       ]}
     />
 

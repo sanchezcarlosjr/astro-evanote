@@ -4,6 +4,8 @@ html {
 
 body {
   @apply bg-body dark:bg-darkmode-body font-primary font-normal leading-relaxed text-text dark:text-darkmode-text;
+  font-feature-settings: "cv12", "cv06", "ss03", "ss02", "ss03";
+  font-variant-ligatures: common-ligatures contextual;
 }
 
 h1,

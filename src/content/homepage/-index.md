@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "Revolutionize Your Research with Notebooks"
-  content: "EvaNotebook is an innovative computational notebook platform designed for collaborative research in distributed environments. Built with cutting-edge technology, it combines the flexibility of end-user development with the power of distributed computing to enhance your scientific discovery and educational projects."
+  title: "Write, play, build."
+  content: "Turn ideas into insights with Evanote's open-source interactive computing."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Get EvaNote Free →"
     link: "/login"
 
 # Features
