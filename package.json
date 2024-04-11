@@ -18,6 +18,8 @@
     "@astrojs/react": "^3.0.9",
     "@astrojs/rss": "^4.0.4",
     "@astrojs/sitemap": "^3.0.5",
+    "@astrojs/starlight": "^0.21.5",
+    "@astrojs/starlight-tailwind": "^2.0.2",
     "@astrojs/tailwind": "^5.1.0",
     "astro": "^4.3.2",
     "astro-auto-import": "^0.4.2",
