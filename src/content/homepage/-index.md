@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Write, play, build."
+  title: Write, play, build.
   content: "Turn ideas into insights with Evanote's open-source interactive computing."
   image: "/images/banner.png"
   button:

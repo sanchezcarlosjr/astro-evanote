@@ -32,13 +32,13 @@ const { banner, features }: Homepage = homepage.data;
         <div class="lg:col-7 md:col-9 mb-8 text-center">
           <h1
             set:html={markdownify(banner.title)}
-            class="mb-4 text-h3 lg:text-6xl"
+            class="mb-4 text-7xl"
           />
-          <p set:html={markdownify(banner.content)} class="mb-8" />
+          <p set:html={markdownify(banner.content)} class="mb-8  text-xl" />
           {
             banner.button.enable && (
               <a
-                class="btn btn-primary"
+                class="btn btn-primary backdrop-blur-sm"
                 href={banner.button.link}
                 target={
                   banner.button.link.startsWith("http") ? "_blank" : "_self"

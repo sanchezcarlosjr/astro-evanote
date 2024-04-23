@@ -1,0 +1,45 @@
+:root[data-theme="dark"] {
+  --sl-color-bg-nav: rgb(18, 18, 18);
+  --sl-color-bg-sidebar: rgb(18, 18, 18);
+  --sl-color-accent: rgb(18, 18, 18);
+  --sl-color-bg: rgb(18, 18, 18);
+  --sl-color-bg-inline-code: rgb(18, 18, 18);
+  --sl-color-bg-accent: rgb(18, 18, 18);
+}
+
+starlight-theme-select svg {
+  display: none;
+}
+
+button[data-open-modal] {
+  background-color: transparent;
+}
+
+dialog {
+  backdrop-filter: blur(10px);
+  background-color: transparent;
+}
+
+dialog * {
+  color: white !important;
+}
+
+.pagefind-ui__search-input {
+  background-color: transparent !important;;
+  backdrop-filter: blur(100px);
+}
+
+.pagefind-ui__search-input {
+  background-color: transparent !important;;
+  backdrop-filter: blur(100px);
+}
+
+.pagefind-ui__result-nested {
+  background-color: transparent !important;
+  backdrop-filter: blur(100px);
+}
+
+.pagefind-ui__result-title  {
+  background-color: transparent !important;
+  backdrop-filter: blur(100px);
+}

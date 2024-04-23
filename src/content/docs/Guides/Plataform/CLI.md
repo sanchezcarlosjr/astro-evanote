@@ -1,6 +1,6 @@
 ---
-title: Getting started
+title: CLI
 description: Web-based reactive computing platform
 sidebar:
-  order: 0
+  order: 1
 ---

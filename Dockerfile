@@ -26,7 +26,7 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
-# RUN chmod u+x ./installer && ./installer
+# RUN chmod u+Guides ./installer && ./installer
 ARG INSTALLER
 RUN \
   if [ "${INSTALLER}" == "yarn" ]; then yarn build; \

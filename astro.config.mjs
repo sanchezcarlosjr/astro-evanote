@@ -22,8 +22,15 @@ export default defineConfig({
     starlight({
       title: "EvaNote",
       customCss: [
-        './src/styles/typography.scss'
-      ]
+        './src/styles/typography.scss',
+        './src/styles/palette.scss'
+      ],
+      locales: {
+        root: {
+          label: 'English',
+          lang: 'en',
+        }
+      }
     }),
     tailwind({
     config: {
