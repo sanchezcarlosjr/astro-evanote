@@ -5,26 +5,53 @@ description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+Privacy Policy for EvaNote
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Effective Date: 4/23/2024
+1. Introduction
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Welcome to EvaNote! EvaNote is dedicated to transforming your ideas into insights through our open-source interactive computing platform. This Privacy Policy details how we collect, use, protect, and share your personal information in compliance with Mexican and other applicable laws.
+2. Information We Collect
 
-#### Gathering of Personal Information
+a. Personal Information: Includes your name, email address, and optionally, your occupation and organization when you sign up.
+b. Usage Data: Details on how you interact with our services, such as tools used and projects created.
+c. Technical Data: Information about your accessing device and environment, including IP addresses, browser type, and operating system.
+3. How We Use Your Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+We use your information to:
 
-#### Protection of Personal- Information
+    Operate and maintain EvaNote services.
+    Enhance, personalize, and expand our offerings.
+    Analyze usage and improve our services.
+    Develop new tools and features.
+    Communicate for service-related purposes and promotional messages.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+4. Sharing Your Information
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+We do not sell your personal data. We share it with:
 
-#### Privacy Policy Changes
+    Service Providers: Third parties who perform services on our behalf.
+    Legal Compliance: When required by law or in response to legal processes.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+5. Data Security
+
+We employ robust security measures to protect your information from unauthorized access or disclosure.
+6. Data Retention
+
+We retain personal information only as long as necessary for the purposes described, complying with our legal obligations.
+7. Your Rights
+
+Under Mexican law, you have the ARCO rights, which allow you to:
+
+    Access your personal data we hold.
+    Rectify incorrect or incomplete data.
+    Cancel your personal data when you believe it is not being used for the purposes specified.
+    Object to the processing of your data for specific purposes.
+
+To exercise these rights, please contact us at privacy@sanchezcarlosjr.com.
+8. Changes to This Privacy Policy
+
+We may update this policy to reflect changes to our practices or for other operational, legal, or regulatory reasons.
+9. Contact Us
+
+For questions about this policy or your personal data, contact us at privacy@sanchezcarlosjr.com.
